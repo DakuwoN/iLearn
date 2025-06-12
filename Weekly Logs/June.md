@@ -23,6 +23,7 @@
 - Low energy after UPS shift
 - Started late because of gym workout and kids playing pool
 - Understanding and visualization of the delimiter concept
+- Didn't know where to start when trying to rotate the array by X
 
 ### 🎯 Focus for Week 3
 
