@@ -5,6 +5,7 @@
 - Attended Apple WWDC 2025 and Apple Developers 2025
 - Started learning Swift Playground
 - Learned some concepts about Linked Lists
+- Solved two string problems
 
 ### 📚 What I Learned
 
@@ -14,11 +15,14 @@
 - How memory is managed differently in Linked Lists vs Arrays
 - Code up a Linked List Data Structure quickly
 - How to iterate through a linked lists
+- How to reverse a word using a Stack
+- How to rotate an array by X
 
 ### 😬 Struggles
 
 - Low energy after UPS shift
 - Started late because of gym workout and kids playing pool
+- Understanding and visualization of the delimiter concept
 
 ### 🎯 Focus for Week 3
 
