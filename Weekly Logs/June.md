@@ -6,6 +6,7 @@
 - Started learning Swift Playground
 - Learned some concepts about Linked Lists
 - Solved two string problems
+- Worked on Selection Sort
 
 ### 📚 What I Learned
 
