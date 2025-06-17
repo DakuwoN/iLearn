@@ -32,7 +32,11 @@
 
 ### ✅ Wins
 
+- Swift Playgrounds - Practiced commands, functions, loops, conditionals, and logical.
+
 ### 😬 Struggles
+
+-
 
 ### 🎯 Focus for Week 4
 
