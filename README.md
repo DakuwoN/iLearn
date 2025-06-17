@@ -2,13 +2,11 @@
 
 - [Formation](https://formation.dev) : Data Structures and Algorithm, Interview Prep, Software Engineering
 
-- [Apple](https://developers.apple.com) Ecosystem : Swift, SwiftUI, Xcode, CoreData, UserDefaults, iCloud, XCTest, XCUITest, TestFlight, App Store Connect, Jazzy (Swift docs)
+- [Apple](https://developers.apple.com) Ecosystem : Swift, SwiftUI, Xcode
 
-- Machine Learning : CoreML, Vision, CreateML, TuriCreate, Natural Language, SiriKit, coremltools
+- Machine Learning : Long-term goal.
 
-- ASU ALEKS Math Placement : [Math Practice](www.MathHelp.com)
-
-- [Apple](https://apple.com) Products : Retail
+- [Apple](https://apple.com) Retail : Product mastery and customer feedback.
 
 ## 📅 Monthly Logs
 
