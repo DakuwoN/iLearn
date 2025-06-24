@@ -36,14 +36,26 @@
 
 ### 😬 Struggles
 
--
+- Be more consistent in studying.
 
 ### 🎯 Focus for Week 4
+
+- ASU
+- Swift
+- Formation
+- Math
 
 ## 🔄 Week 4 Reflection (June 23-28)
 
 ### ✅ Wins
 
+- Worked on Logical operators in Swift Playground
+- Completed Formation session
+- Completed ASU Orientation material
+- Implemented pseudo code for constructor in Formation session and implemented the insert method for the problem as well.
+
 ### 😬 Struggles
 
 ### 🎯 Focus for Week 5
+
+- Gained some experienced and formed some habit, but lets become more consistent with this workflow.
