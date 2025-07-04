@@ -56,6 +56,10 @@
 
 ### 😬 Struggles
 
+- A session I had with Pelumi, visualizing an algorithm.
+
 ### 🎯 Focus for Week 5
 
 - Gained some experienced and formed some habit, but lets become more consistent with this workflow.
+
+- Brand myself better through Twitch streaming.
