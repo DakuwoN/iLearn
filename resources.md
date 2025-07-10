@@ -2,17 +2,13 @@
 
 ## Swift + iOS
 
-- [Apple Developer SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)
-
-## Machine Learning
-
-- [Andrew Ng’s ML Course (Coursera)](https://www.coursera.org/learn/machine-learning)
-- [CoreML Apple Docs](https://developer.apple.com/documentation/coreml)
+- [Arizona State University](https://asu.edu)
 
 ## Computer Science, Interview Preparation, Software Engineering
 
-- [Formation.dev](https://formation.dev/)
+- [Formation Fellowship](https://formation.dev/)
 
-## Pomodoro Technique
+## Pomodoro Focus Technique
 
 - [Pomodoro](https://pomofocus.io)
+- [What is a Pomodoro?](https://www.todoist.com/productivity-methods/pomodoro-technique)
