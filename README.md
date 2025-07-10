@@ -1,12 +1,8 @@
 ## 🧩 Current Learnings
 
-- [Formation](https://formation.dev) : Data Structures and Algorithm, Interview Prep, Software Engineering
+- [Formation](./Formation/) : Data Structures and Algorithm, Interview Prep, Software Engineering
 
-- [Apple](https://developers.apple.com) Ecosystem : Swift, SwiftUI, Xcode
-
-- Machine Learning : Long-term goal.
-
-- [Apple](https://apple.com) Retail : Product mastery and customer feedback.
+- [Arizona State University](./ASU/College%20Algebra/) : College Algebra
 
 ## 📅 Monthly Logs
 
