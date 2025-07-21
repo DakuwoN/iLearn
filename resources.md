@@ -1,12 +1,9 @@
 # 📚 Helpful Resources
 
-## Swift + iOS
-
-- [Arizona State University](https://asu.edu)
-
 ## Computer Science, Interview Preparation, Software Engineering
 
 - [Formation Fellowship](https://formation.dev/)
+- [Arizona State University](https://asu.edu)
 
 ## Pomodoro Focus Technique
 
